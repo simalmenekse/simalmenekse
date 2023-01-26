@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Şimal Menekşe</h1>
+<h1 align="center">Hi 👋, I'm Şimal Menekşe</h1>
 <h3 align="center">A passionate junior game developer and software engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simalmenekse&show_icons=true&theme=tokyonight&locale=en&layout=normal" alt="simalmenekse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simalmenekse&show_icons=true&locale=en" alt="simalmenekse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simalmenekse&show_icons=true&theme=tokyonight&locale=en" alt="simalmenekse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simalmenekse&" alt="simalmenekse" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simalmenekse&theme=dark" alt="simalmenekse" /></p>
