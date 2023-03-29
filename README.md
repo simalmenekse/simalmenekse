@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simalmenekse&label=Profile%20views&color=81c4ee&style=flat-square" alt="simalmenekse" /> </p>
 
-- 🌱 I’m currently learning **C++, Unity, Unreal Engine, Python**
+- 🌱 I’m currently learning **C++, Unity, Unreal Engine, Python and HTML**
 
 - 📫 How to reach me **aysesimalmenekse@gmail.com**
 
