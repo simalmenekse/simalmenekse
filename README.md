@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Şimal Menekşe</h1>
-<h3 align="center">A passionate junior game developer and software engineer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simalmenekse&label=Profile%20views&color=81c4ee&style=flat-square" alt="simalmenekse" /> </p>
 
-- 🌱 I’m currently learning **C++, Unity, Unreal Engine, Python and HTML/CSS**
+- 🌱 I’m currently learning **C++, C#, Python and HTML/CSS**
 
 - 📫 How to reach me **aysesimalmenekse@gmail.com**
 
