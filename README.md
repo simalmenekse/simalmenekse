@@ -36,6 +36,3 @@ Computer Engineering graduate focused on **machine learning, deep learning, and 
   <a href="https://linkedin.com/in/simalmenekse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aysesimalmenekse@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<!-- Optional stats card — delete this block if it loads slowly or fails to render. -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=simalmenekse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
