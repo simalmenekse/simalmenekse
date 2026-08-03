@@ -25,8 +25,10 @@ Computer Engineering graduate focused on **machine learning, deep learning, and 
 **Focus:** Machine Learning · Deep Learning · Reinforcement Learning · LLMs · Computer Vision
 
 ### ✨ Selected work
-
 - 🍳 **[VRKitchen](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-VRKitchen-Risk-Management-Platform-for-Gastronomy-Practitioners)** — AI-guided VR training platform (Unity + AWS Bedrock LLMs). *Published at IEEE IISEC 2026.*
+- 🧩 **[HouseCorr3D v2](https://github.com/simalmenekse/HouseCorr3Dv2)** — Benchmarks how different 3D vision backbones (DINOv2, PartField, DenseMatcher, CoSMo3D) perform at category-level 3D correspondence, and introduces a fused encoder that beats them all on the HouseCorr3D benchmark.
+- 🎯 **[Study Focus Web](https://github.com/simalmenekse/study-focus-web)** — Real-time webcam app that scores study focus from facial emotion, head pose, and presence (MediaPipe + Keras CNN), with a FastAPI web UI, Pomodoro timer, and session reports.
+- 🎣 **[BigDataProject](https://github.com/simalmenekse/BigDataProject)** — Streams 6 months of fishing and sea-condition data through Kafka, runs ML on it with Spark, and stores the results in MongoDB.
 - 🎵 **[Song Mood Prediction](https://github.com/simalmenekse/Song-Mood-Prediction)** — ML model classifying song mood from audio features.
 
 ### 🔗 Find me
